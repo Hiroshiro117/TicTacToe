@@ -1,8 +1,5 @@
 /*
-   Aung Lin Htet ( Eddie )
-   Professor Persiko
-   CS-110A
-   May. 10 .2017
+   Aung Lin Htet
 
 Objective: To write a program to allow a game of Tic Tac Toe to be played, and to determine when the game is over
 
